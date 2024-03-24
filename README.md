@@ -9,5 +9,8 @@ Steps are:
 2. Make a database and put your username and password(because I had made it on MySQL database).
 3. Run The Project.
 
-<u>dashboard.py</u>
+
+DASHBOARD
+
+ 
 ![image](https://github.com/codepro001/Shop-Inventory-Management-system/assets/164716157/597c7952-2b08-4497-bec7-52f75ccfc8cd)
