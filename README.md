@@ -14,3 +14,7 @@ DASHBOARD
 
  
 ![image](https://github.com/codepro001/Shop-Inventory-Management-system/assets/164716157/597c7952-2b08-4497-bec7-52f75ccfc8cd)
+
+EMPLOYEES
+![image](https://github.com/codepro001/Shop-Inventory-Management-system/assets/164716157/be4e5085-117f-4c59-98e5-b1ec367d0056)
+
